@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DH Auto Giveaway</string>
+    <string name="accessibility_description">Mendeteksi teks giveaway Donghive pada layar saat layanan diaktifkan. Tidak menekan tombol klaim otomatis.</string>
+</resources>
